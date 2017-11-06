@@ -23,8 +23,8 @@ position: relative;
 }
  
 #slider li {
-width: 750;
-height: 320;
+width: 600;
+height: 400;
 position: absolute;
 top: -325px;
 list-style: none;

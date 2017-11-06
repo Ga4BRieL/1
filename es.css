@@ -24,8 +24,8 @@ position: relative;
 }
  
 #slider li {
-width: 680px;
-height: 320px;
+width: 750;
+height: 320;
 position: absolute;
 top: -325px;
 list-style: none;

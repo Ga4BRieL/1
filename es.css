@@ -4,8 +4,9 @@
 background: #000;
 border: 5px solid #eaeaea;
 box-shadow: 1px 1px 5px rgba(0,0,0,0.7);
-
-
+width: 600;
+height: 485;
+margin: 40px auto 0;
 overflow: visible;
 position: relative;
  
@@ -13,7 +14,7 @@ position: relative;
  
 #mascara {
 overflow: hidden;
-height: 320px;
+height: 485px;
 }
  
 #slider ul {
@@ -23,8 +24,8 @@ position: relative;
 }
  
 #slider li {
-width: 600;
-height: 400;
+width: 600px;
+height: 400px;
 position: absolute;
 top: -325px;
 list-style: none;
@@ -383,4 +384,4 @@ animation: fullexpand 25s ease-out infinite;
 #slider:hover .barra-progresso
 {
 animation-play-state: paused;
-} 
+}
